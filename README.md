@@ -5,6 +5,7 @@ As with the A3 Multitester, the idea here is to bring together a bunch of differ
 This Multitester includes:
 * huubdejong's MegaTester
 * Charlotte Volk's MyTester
+   * Expected_Output.rtf also included
 * Allison Mazurek's SearchEngineTest
    * Some print statements added to help with debugging
    * ComputeRankArray() and crawlAndIndexWordIndexUpdated() removed
