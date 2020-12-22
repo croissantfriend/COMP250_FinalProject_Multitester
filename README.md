@@ -35,7 +35,9 @@ Eclipse
   4. Select the "master" branch
 
 ## Usage
-Each file can be run on its own as normal. Start an issue or contact me on Messenger if you have any trouble!
+* Replace the SearchEngine.java and Sorting.java placeholders with your own code.
+* Run the tester you'd like to use like you would any other file. Again, nothing quite as fancy as in the last Multitester! 
+* Start an issue or contact me on Messenger if you have any trouble!
 
 ## Contributing
 Feel free to start a pull request if you have any updates or tests to add!
