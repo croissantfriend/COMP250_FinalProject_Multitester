@@ -3,7 +3,7 @@
 As with the A3 Multitester, the idea here is to bring together a bunch of different tools and testers other people have created.
 
 This Multitester includes:
-* huubdejong's MegaTester
+* Huub de Jong's MegaTester
 * Charlotte Volk's [MyTester](https://github.com/charlottevolk/250-Final-Project-Tester)
    * Expected_Output.rtf also included
 * Allison Mazurek's [SearchEngineTest](https://github.com/allisonmazurek/TesterFinalProject_COMP_250)
