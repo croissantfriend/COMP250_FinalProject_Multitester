@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test>
+
+    <webpage name="www.myhalloffamerecord.cn">
+        <link name="st.myhalloffamerecord.cn" />
+        <link name="fr.myhalloffamerecord.cn" />
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\grasstype" />
+        <link name="www.myhalloffamerecord.cn\watertype" />
+        <link name="www.myhalloffamerecord.cn\normaltype" />
+        <link name="www.myhalloffamerecord.cn\firetype" />
+        <link name="www.myhalloffamerecord.cn\electrictype" />
+        <link name="www.myhalloffamerecord.cn\icetype" />
+        <link name="www.myhalloffamerecord.cn\fightingtype" />
+        <link name="www.myhalloffamerecord.cn\poisontype" />
+        <link name="www.myhalloffamerecord.cn\groundtype" />
+        <rank value="1" />
+        <content value="My 9 different single - type teams which entered hall of fame ."/>
+    </webpage>
+
+    <webpage name="st.myhalloffamerecord.cn">
+        <link name="www.myhalloffamerecord.cn" />
+        <link name="fr.myhalloffamerecord.cn" />
+        <link name="st.myhalloffamerecord.cn\jaita" />
+        <link name="st.myhalloffamerecord.cn\lanijanta" />
+        <link name="st.myhalloffamerecord.cn\grasstype" />
+        <link name="st.myhalloffamerecord.cn\watertype" />
+        <link name="st.myhalloffamerecord.cn\normaltype" />
+        <link name="st.myhalloffamerecord.cn\firetype" />
+        <link name="st.myhalloffamerecord.cn\ilectrictype" />
+        <link name="st.myhalloffamerecord.cn\ecetype" />
+        <link name="st.myhalloffamerecord.cn\fightengtype" />
+        <link name="st.myhalloffamerecord.cn\laesontype" />
+        <link name="st.myhalloffamerecord.cn\groyndtype" />
+        <rank value="1" />
+        <content value="Eak neuf hefferentatta zengleat - type teomta which interin doll af faji ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves">
+        <link name="www.myhalloffamerecord.cn\moves\sleeppowder" />
+        <link name="www.myhalloffamerecord.cn\moves\dreameater" />
+        <link name="www.myhalloffamerecord.cn\moves\quiverdance" />
+        <link name="www.myhalloffamerecord.cn\moves\petaldance" />
+        <link name="www.myhalloffamerecord.cn\moves\icepunch" />
+        <link name="www.myhalloffamerecord.cn\moves\dig" />
+        <link name="www.myhalloffamerecord.cn\moves\shadowclaw" />
+        <link name="www.myhalloffamerecord.cn\moves\waterfall" />
+        <link name="www.myhalloffamerecord.cn\moves\surf" />
+        <link name="www.myhalloffamerecord.cn\moves\icebeam" />
+        <link name="www.myhalloffamerecord.cn\moves\signalbeam" />
+        <link name="www.myhalloffamerecord.cn\moves\shadowball" />
+        <link name="www.myhalloffamerecord.cn\moves\thunderbolt" />
+        <link name="www.myhalloffamerecord.cn\moves\dragonpulse" />
+        <link name="www.myhalloffamerecord.cn\moves\psychic" />
+        <link name="www.myhalloffamerecord.cn\moves\recover" />
+        <link name="www.myhalloffamerecord.cn\moves\aquajet" />
+        <link name="www.myhalloffamerecord.cn\moves\amnesia" />
+        <link name="www.myhalloffamerecord.cn\moves\dragondance" />
+        <link name="www.myhalloffamerecord.cn\moves\dive" />
+        <link name="www.myhalloffamerecord.cn\moves\thrash" />
+        <link name="www.myhalloffamerecord.cn\moves\aurasphere" />
+        <link name="www.myhalloffamerecord.cn\moves\extremespeed" />
+        <link name="www.myhalloffamerecord.cn\moves\heatwave" />
+        <link name="www.myhalloffamerecord.cn\moves\airslash" />
+        <link name="www.myhalloffamerecord.cn\moves\superpower" />
+        <link name="www.myhalloffamerecord.cn\moves\gigaimpact" />
+        <link name="www.myhalloffamerecord.cn\moves\crunch" />
+        <link name="www.myhalloffamerecord.cn\moves\firepunch" />
+        <link name="www.myhalloffamerecord.cn\moves\thunderpunch" />
+        <link name="www.myhalloffamerecord.cn\moves\drainpunch" />
+        <link name="www.myhalloffamerecord.cn\moves\megahorn" />
+        <link name="www.myhalloffamerecord.cn\moves\stoneedge" />
+        <link name="www.myhalloffamerecord.cn\moves\wildcharge" />
+        <link name="www.myhalloffamerecord.cn\moves\uturn" />
+        <link name="www.myhalloffamerecord.cn\moves\aquatail" />
+        <link name="www.myhalloffamerecord.cn\moves\flamethrower" />
+        <link name="www.myhalloffamerecord.cn\moves\sunnyday" />
+        <link name="www.myhalloffamerecord.cn\moves\megadrain" />
+        <link name="www.myhalloffamerecord.cn\moves\firefang" />
+        <link name="www.myhalloffamerecord.cn\moves\ancientpower" />
+        <link name="www.myhalloffamerecord.cn\moves\earthpower" />
+        <link name="www.myhalloffamerecord.cn\moves\flareblitz" />
+        <link name="www.myhalloffamerecord.cn\moves\energyball" />
+        <link name="www.myhalloffamerecord.cn\moves\darkpulse" />
+        <link name="www.myhalloffamerecord.cn\moves\psyshock" />
+        <link name="www.myhalloffamerecord.cn\moves\cottonguard" />
+        <link name="www.myhalloffamerecord.cn\moves\thunderwave" />
+        <link name="www.myhalloffamerecord.cn\moves\flashcannon" />
+        <link name="www.myhalloffamerecord.cn\moves\flamecharge" />
+        <link name="www.myhalloffamerecord.cn\moves\bounce" />
+        <link name="www.myhalloffamerecord.cn\moves\blizzard" />
+        <link name="www.myhalloffamerecord.cn\moves\dragonclaw" />
+        <link name="www.myhalloffamerecord.cn\moves\hail" />
+        <link name="www.myhalloffamerecord.cn\moves\toxic" />
+        <link name="www.myhalloffamerecord.cn\moves\iceshard" />
+        <link name="www.myhalloffamerecord.cn\moves\earthquake" />
+        <link name="www.myhalloffamerecord.cn\moves\lightscreen" />
+        <link name="www.myhalloffamerecord.cn\moves\reflect" />
+        <link name="www.myhalloffamerecord.cn\moves\closecombat" />
+        <link name="www.myhalloffamerecord.cn\moves\seedbomb" />
+        <link name="www.myhalloffamerecord.cn\moves\machpunch" />
+        <link name="www.myhalloffamerecord.cn\moves\xscissor" />
+        <link name="www.myhalloffamerecord.cn\moves\leafblade" />
+        <link name="www.myhalloffamerecord.cn\moves\gigadrain" />
+        <link name="www.myhalloffamerecord.cn\moves\sacredsword" />
+        <link name="www.myhalloffamerecord.cn\moves\dualchop" />
+        <link name="www.myhalloffamerecord.cn\moves\suckerpunch" />
+        <link name="www.myhalloffamerecord.cn\moves\nightslash" />
+        <link name="www.myhalloffamerecord.cn\moves\superfang" />
+        <link name="www.myhalloffamerecord.cn\moves\fly" />
+        <link name="www.myhalloffamerecord.cn\moves\explosion" />
+        <link name="www.myhalloffamerecord.cn\moves\painsplit" />
+        <link name="www.myhalloffamerecord.cn\moves\foulplay" />
+        <link name="www.myhalloffamerecord.cn\moves\aerialace" />
+        <link name="www.myhalloffamerecord.cn\moves\zenheadbutt" />
+        <rank value="1" />
+        <content value="This page contains all the moves I have used ."/>
+    </webpage>
+
+    <webpage name="st.myhalloffamerecord.cn\jaita">
+        <link name="st.myhalloffamerecord.cn\jaita\sleiplawder" />
+        <link name="st.myhalloffamerecord.cn\jaita\dreomiotir" />
+        <link name="st.myhalloffamerecord.cn\jaita\queirdance" />
+        <link name="st.myhalloffamerecord.cn\jaita\peqoldance" />
+        <link name="st.myhalloffamerecord.cn\jaita\ecepunch" />
+        <link name="st.myhalloffamerecord.cn\jaita\heg" />
+        <link name="st.myhalloffamerecord.cn\jaita\sdohawcpow" />
+        <link name="st.myhalloffamerecord.cn\jaita\waterfall" />
+        <link name="st.myhalloffamerecord.cn\jaita\surf" />
+        <link name="st.myhalloffamerecord.cn\jaita\ecebeom" />
+        <link name="st.myhalloffamerecord.cn\jaita\zegnalbeom" />
+        <link name="st.myhalloffamerecord.cn\jaita\sdohawfoll" />
+        <link name="st.myhalloffamerecord.cn\jaita\thunderbolt" />
+        <link name="st.myhalloffamerecord.cn\jaita\dragonpulzi" />
+        <link name="st.myhalloffamerecord.cn\jaita\psychic" />
+        <link name="st.myhalloffamerecord.cn\jaita\recoir" />
+        <link name="st.myhalloffamerecord.cn\jaita\oquojet" />
+        <link name="st.myhalloffamerecord.cn\jaita\omnezeo" />
+        <link name="st.myhalloffamerecord.cn\jaita\dragondance" />
+        <link name="st.myhalloffamerecord.cn\jaita\hei" />
+        <link name="st.myhalloffamerecord.cn\jaita\thrash" />
+        <link name="st.myhalloffamerecord.cn\jaita\oyraspdire" />
+        <link name="st.myhalloffamerecord.cn\jaita\itrejispeid" />
+        <link name="st.myhalloffamerecord.cn\jaita\diotwai" />
+        <link name="st.myhalloffamerecord.cn\jaita\oersposh" />
+        <link name="st.myhalloffamerecord.cn\jaita\superlawer" />
+        <link name="st.myhalloffamerecord.cn\jaita\gigaempact" />
+        <link name="st.myhalloffamerecord.cn\jaita\cwynch" />
+        <link name="st.myhalloffamerecord.cn\jaita\firepunch" />
+        <link name="st.myhalloffamerecord.cn\jaita\thunderpunch" />
+        <link name="st.myhalloffamerecord.cn\jaita\draenpunch" />
+        <link name="st.myhalloffamerecord.cn\jaita\jigahorn" />
+        <link name="st.myhalloffamerecord.cn\jaita\sqaneidci" />
+        <link name="st.myhalloffamerecord.cn\jaita\wildcdorci" />
+        <link name="st.myhalloffamerecord.cn\jaita\uturn" />
+        <link name="st.myhalloffamerecord.cn\jaita\oquoqoel" />
+        <link name="st.myhalloffamerecord.cn\jaita\fpojithrowir" />
+        <link name="st.myhalloffamerecord.cn\jaita\sunnydau" />
+        <link name="st.myhalloffamerecord.cn\jaita\megadraen" />
+        <link name="st.myhalloffamerecord.cn\jaita\firefang" />
+        <link name="st.myhalloffamerecord.cn\jaita\ongeintlawer" />
+        <link name="st.myhalloffamerecord.cn\jaita\iorthlawer" />
+        <link name="st.myhalloffamerecord.cn\jaita\fporeblitz" />
+        <link name="st.myhalloffamerecord.cn\jaita\inergyfoll" />
+        <link name="st.myhalloffamerecord.cn\jaita\darkpulzi" />
+        <link name="st.myhalloffamerecord.cn\jaita\psyshock" />
+        <link name="st.myhalloffamerecord.cn\jaita\cotqancyord" />
+        <link name="st.myhalloffamerecord.cn\jaita\thunderwai" />
+        <link name="st.myhalloffamerecord.cn\jaita\fposhcannon" />
+        <link name="st.myhalloffamerecord.cn\jaita\fpojicdorci" />
+        <link name="st.myhalloffamerecord.cn\jaita\boynce" />
+        <link name="st.myhalloffamerecord.cn\jaita\blizzard" />
+        <link name="st.myhalloffamerecord.cn\jaita\dragoncpow" />
+        <link name="st.myhalloffamerecord.cn\jaita\doel" />
+        <link name="st.myhalloffamerecord.cn\jaita\qaec" />
+        <link name="st.myhalloffamerecord.cn\jaita\ecesdord" />
+        <link name="st.myhalloffamerecord.cn\jaita\iorthquoni" />
+        <link name="st.myhalloffamerecord.cn\jaita\lightscrein" />
+        <link name="st.myhalloffamerecord.cn\jaita\reflect" />
+        <link name="st.myhalloffamerecord.cn\jaita\clozicomfot" />
+        <link name="st.myhalloffamerecord.cn\jaita\ziidbomb" />
+        <link name="st.myhalloffamerecord.cn\jaita\machpunch" />
+        <link name="st.myhalloffamerecord.cn\jaita\kssgessor" />
+        <link name="st.myhalloffamerecord.cn\jaita\leofbpode" />
+        <link name="st.myhalloffamerecord.cn\jaita\gigadraen" />
+        <link name="st.myhalloffamerecord.cn\jaita\sacredsword" />
+        <link name="st.myhalloffamerecord.cn\jaita\duolchop" />
+        <link name="st.myhalloffamerecord.cn\jaita\sucnirpunch" />
+        <link name="st.myhalloffamerecord.cn\jaita\keghtsposh" />
+        <link name="st.myhalloffamerecord.cn\jaita\superfang" />
+        <link name="st.myhalloffamerecord.cn\jaita\fly" />
+        <link name="st.myhalloffamerecord.cn\jaita\iplozean" />
+        <link name="st.myhalloffamerecord.cn\jaita\paensplit" />
+        <link name="st.myhalloffamerecord.cn\jaita\baylppou" />
+        <link name="st.myhalloffamerecord.cn\jaita\oirioloce" />
+        <link name="st.myhalloffamerecord.cn\jaita\sindiodbutt" />
+        <rank value="1" />
+        <content value="Thisat paci conqoens ollatta tdiatta jaita E doi yziin ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\pokemons">
+        <link name="www.myhalloffamerecord.cn\grasstype\lilligant" />
+        <link name="www.myhalloffamerecord.cn\watertype\simipour" />
+        <link name="www.myhalloffamerecord.cn\watertype\vaporeon" />
+        <link name="www.myhalloffamerecord.cn\watertype\lapras" />
+        <link name="www.myhalloffamerecord.cn\watertype\starmie" />
+        <link name="www.myhalloffamerecord.cn\watertype\golduck" />
+        <link name="www.myhalloffamerecord.cn\watertype\gyarados" />
+        <link name="www.myhalloffamerecord.cn\normaltype\togekiss" />
+        <link name="www.myhalloffamerecord.cn\normaltype\ursaring" />
+        <link name="www.myhalloffamerecord.cn\normaltype\stoutland" />
+        <link name="www.myhalloffamerecord.cn\normaltype\lopunny" />
+        <link name="www.myhalloffamerecord.cn\normaltype\bouffalant" />
+        <link name="www.myhalloffamerecord.cn\normaltype\cinccino" />
+        <link name="www.myhalloffamerecord.cn\firetype\simisear" />
+        <link name="www.myhalloffamerecord.cn\firetype\heatmor" />
+        <link name="www.myhalloffamerecord.cn\firetype\flareon" />
+        <link name="www.myhalloffamerecord.cn\firetype\heatran" />
+        <link name="www.myhalloffamerecord.cn\firetype\darmanitan" />
+        <link name="www.myhalloffamerecord.cn\firetype\ninetales" />
+        <link name="www.myhalloffamerecord.cn\electrictype\ampharos" />
+        <link name="www.myhalloffamerecord.cn\electrictype\magnezone" />
+        <link name="www.myhalloffamerecord.cn\electrictype\zebstrika" />
+        <link name="www.myhalloffamerecord.cn\electrictype\emolga" />
+        <link name="www.myhalloffamerecord.cn\electrictype\rotom" />
+        <link name="www.myhalloffamerecord.cn\electrictype\eelektross" />
+        <link name="www.myhalloffamerecord.cn\icetype\vanilluxe" />
+        <link name="www.myhalloffamerecord.cn\icetype\glaceon" />
+        <link name="www.myhalloffamerecord.cn\icetype\mamoswine" />
+        <link name="www.myhalloffamerecord.cn\icetype\cryogonal" />
+        <link name="www.myhalloffamerecord.cn\icetype\walrein" />
+        <link name="www.myhalloffamerecord.cn\icetype\beartic" />
+        <link name="www.myhalloffamerecord.cn\fightingtype\sawk" />
+        <link name="www.myhalloffamerecord.cn\fightingtype\breloom" />
+        <link name="www.myhalloffamerecord.cn\fightingtype\throh" />
+        <link name="www.myhalloffamerecord.cn\fightingtype\virizion" />
+        <link name="www.myhalloffamerecord.cn\fightingtype\poliwrath" />
+        <link name="www.myhalloffamerecord.cn\fightingtype\mienshao" />
+        <link name="www.myhalloffamerecord.cn\poisontype\toxicroak" />
+        <link name="www.myhalloffamerecord.cn\poisontype\drapion" />
+        <link name="www.myhalloffamerecord.cn\poisontype\nidoking" />
+        <link name="www.myhalloffamerecord.cn\poisontype\nidoqueen" />
+        <link name="www.myhalloffamerecord.cn\poisontype\crobat" />
+        <link name="www.myhalloffamerecord.cn\poisontype\muk" />
+        <link name="www.myhalloffamerecord.cn\groundtype\hippowdon" />
+        <link name="www.myhalloffamerecord.cn\groundtype\gliscor" />
+        <link name="www.myhalloffamerecord.cn\groundtype\krookodile" />
+        <link name="www.myhalloffamerecord.cn\groundtype\flygon" />
+        <link name="www.myhalloffamerecord.cn\groundtype\excadrill" />
+        <link name="www.myhalloffamerecord.cn\groundtype\claydol" />
+        <rank value="1" />
+        <content value="This page contains all the pokemons I have used ."/>
+    </webpage>
+
+    <webpage name="st.myhalloffamerecord.cn\lanijanta">
+        <link name="st.myhalloffamerecord.cn\grasstype\lilligant" />
+        <link name="st.myhalloffamerecord.cn\watertype\zemilayr" />
+        <link name="st.myhalloffamerecord.cn\watertype\olarean" />
+        <link name="st.myhalloffamerecord.cn\watertype\popras" />
+        <link name="st.myhalloffamerecord.cn\watertype\sqormii" />
+        <link name="st.myhalloffamerecord.cn\watertype\golduck" />
+        <link name="st.myhalloffamerecord.cn\watertype\gyorahas" />
+        <link name="st.myhalloffamerecord.cn\normaltype\qacikiss" />
+        <link name="st.myhalloffamerecord.cn\normaltype\yrsaring" />
+        <link name="st.myhalloffamerecord.cn\normaltype\sqaytpond" />
+        <link name="st.myhalloffamerecord.cn\normaltype\lopunny" />
+        <link name="st.myhalloffamerecord.cn\normaltype\boyffapont" />
+        <link name="st.myhalloffamerecord.cn\normaltype\gencgeno" />
+        <link name="st.myhalloffamerecord.cn\firetype\zemizior" />
+        <link name="st.myhalloffamerecord.cn\firetype\diotjar" />
+        <link name="st.myhalloffamerecord.cn\firetype\fporean" />
+        <link name="st.myhalloffamerecord.cn\firetype\diotran" />
+        <link name="st.myhalloffamerecord.cn\firetype\darmakeqon" />
+        <link name="st.myhalloffamerecord.cn\firetype\neufqoleta" />
+        <link name="st.myhalloffamerecord.cn\ilectrictype\ompdoros" />
+        <link name="st.myhalloffamerecord.cn\ilectrictype\magnezone" />
+        <link name="st.myhalloffamerecord.cn\ilectrictype\sibstrika" />
+        <link name="st.myhalloffamerecord.cn\ilectrictype\ijalga" />
+        <link name="st.myhalloffamerecord.cn\ilectrictype\roqam" />
+        <link name="st.myhalloffamerecord.cn\ilectrictype\iilektross" />
+        <link name="st.myhalloffamerecord.cn\ecetype\okelpyi" />
+        <link name="st.myhalloffamerecord.cn\ecetype\gpocean" />
+        <link name="st.myhalloffamerecord.cn\ecetype\majaswine" />
+        <link name="st.myhalloffamerecord.cn\ecetype\cwuagonal" />
+        <link name="st.myhalloffamerecord.cn\ecetype\walreen" />
+        <link name="st.myhalloffamerecord.cn\ecetype\beortic" />
+        <link name="st.myhalloffamerecord.cn\fightengtype\sawk" />
+        <link name="st.myhalloffamerecord.cn\fightengtype\breloam" />
+        <link name="st.myhalloffamerecord.cn\fightengtype\throh" />
+        <link name="st.myhalloffamerecord.cn\fightengtype\erisean" />
+        <link name="st.myhalloffamerecord.cn\fightengtype\laliwrath" />
+        <link name="st.myhalloffamerecord.cn\fightengtype\miinshao" />
+        <link name="st.myhalloffamerecord.cn\laesontype\qaecrook" />
+        <link name="st.myhalloffamerecord.cn\laesontype\drapion" />
+        <link name="st.myhalloffamerecord.cn\laesontype\kehaking" />
+        <link name="st.myhalloffamerecord.cn\laesontype\kehaquiin" />
+        <link name="st.myhalloffamerecord.cn\laesontype\crofot" />
+        <link name="st.myhalloffamerecord.cn\laesontype\muk" />
+        <link name="st.myhalloffamerecord.cn\groyndtype\hiplawhan" />
+        <link name="st.myhalloffamerecord.cn\groyndtype\gliscor" />
+        <link name="st.myhalloffamerecord.cn\groyndtype\kroakohele" />
+        <link name="st.myhalloffamerecord.cn\groyndtype\flygon" />
+        <link name="st.myhalloffamerecord.cn\groyndtype\icadrill" />
+        <link name="st.myhalloffamerecord.cn\groyndtype\cpouhal" />
+        <rank value="1" />
+        <content value="Thisat paci conqoens ollatta tdiatta lanijanta E doi yziin ."/>
+    </webpage>
+
+
+    <webpage name="www.myhalloffamerecord.cn\grasstype">
+        <link name="www.myhalloffamerecord.cn\grasstype\lilligant" />
+        <rank value="1" />
+        <content value="My grass type team contains only one pokemon : Lilligant ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\grasstype\lilligant">
+        <link name="www.myhalloffamerecord.cn\grasstype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\sleeppowder" />
+        <link name="www.myhalloffamerecord.cn\moves\dreameater" />
+        <link name="www.myhalloffamerecord.cn\moves\quiverdance" />
+        <link name="www.myhalloffamerecord.cn\moves\petaldance" />
+        <rank value="1" />
+        <content value="My Lilligant ♀ is a grass type pokemon . She is lv.91 when entering hall of fame . And her moves are Sleep Powder , Dream Eater , Quiver Dance and Petal Dance ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\sleeppowder">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Grass Type , no power , 75 accuracy and 15 PP ( max 24 ) . Sleep Powder puts target to sleep ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\dreameater">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Psychic Type , 100 power , 100 accuracy and 15 PP ( max 24 ) . Dream Eater only works if the target is asleep , inflicts damage and up to 50 % of the damage dealt to the target is restored to the user as HP . If this attack deals 1 HP of damage , 1 HP will restored to the user ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\quiverdance">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Bug Type , no power , no accuracy and 20 PP ( max 32 ) . Quiver Dance raises the user's Sp.Att , Sp.Def and Spd by one stage each ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\petaldance">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Grass Type , 120 power , 100 accuracy and 10 PP ( max 16 ) . Petal Dance inflicts damage for 2 ~ 3 turns . After finishing , the user becomes confused ."/>
+    </webpage>
+
+    <webpage name="st.myhalloffamerecord.cn\grasstype">
+        <link name="st.myhalloffamerecord.cn\grasstype\lilligant" />
+        <rank value="1" />
+        <content value="Eak grass type teom conqoens anlyat un lanijan : Lilligant ."/>
+    </webpage>
+
+    <webpage name="st.myhalloffamerecord.cn\grasstype\lilligant">
+        <link name="st.myhalloffamerecord.cn\grasstype" />
+        <link name="st.myhalloffamerecord.cn\lanijanta" />
+        <link name="st.myhalloffamerecord.cn\jaeta\sleiplawder" />
+        <link name="st.myhalloffamerecord.cn\jaeta\dreomiotir" />
+        <link name="st.myhalloffamerecord.cn\jaeta\queirdance" />
+        <link name="st.myhalloffamerecord.cn\jaeta\peqoldance" />
+        <rank value="1" />
+        <content value="Eak Lilligant ♀ bes un grass type lanijan . Diat bes leil 91 wdin intereng foll af faji . ond diatak jaeta beit Sleip Lawder , Dreom Iotir , Queir Dance ond Peqol Dance ."/>
+    </webpage>
+
+    <webpage name="st.myhalloffamerecord.cn\jaeta\sleiplawder">
+        <link name="st.myhalloffamerecord.cn\jaeta" />
+        <rank value="1" />
+        <content value="Grass Type , no lawer , 75 occuragu ond 15 LL ( ma 24 ) . Sleip Lawder puts qorcit qa sleip ."/>
+    </webpage>
+
+    <webpage name="st.myhalloffamerecord.cn\jaeta\dreomiotir">
+        <link name="st.myhalloffamerecord.cn\jaeta" />
+        <rank value="1" />
+        <content value="Psychic Type , 100 lawer , 100 occuragu ond 15 LL ( ma 24 ) . Dreom Iotir anly works ef tdiut qorcit bes osleip , enflicts damaci ond yp qa 50 % af tdiat damaci deolin qa tdiut qorcit bes resqarein qa tdiut yziir os HL . Ef thisat otqock deols 1 HL af damaci , 1 HL will resqarein qa tdiut yziir ."/>
+    </webpage>
+
+    <webpage name="st.myhalloffamerecord.cn\jaeta\queirdance">
+        <link name="st.myhalloffamerecord.cn\jaeta" />
+        <rank value="1" />
+        <content value="Bug Type , no lawer , no occuragu ond 20 LL ( ma 32 ) . Queir Dance raezis tdiut yziirak Sp.Otq , Sp.Def ond Spd fu un sqoci ioch ."/>
+    </webpage>
+
+    <webpage name="st.myhalloffamerecord.cn\jaeta\peqoldance">
+        <link name="st.myhalloffamerecord.cn\jaeta" />
+        <rank value="1" />
+        <content value="Grass Type , 120 lawer , 100 occuragu ond 10 LL ( ma 16 ) . Peqol Dance enflicts damaci bar 2 ~ 3 turnta . ofter fikesheng , tdiut yziir becojis conbyziid ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\watertype">
+        <link name="www.myhalloffamerecord.cn\watertype\simipour" />
+        <link name="www.myhalloffamerecord.cn\watertype\vaporeon" />
+        <link name="www.myhalloffamerecord.cn\watertype\lapras" />
+        <link name="www.myhalloffamerecord.cn\watertype\starmie" />
+        <link name="www.myhalloffamerecord.cn\watertype\golduck" />
+        <link name="www.myhalloffamerecord.cn\watertype\gyarados" />
+        <rank value="1" />
+        <content value="My water type team contains six pokemons : Simipour , Vaporeon , Lapras , Starmie , Golduck , and Gyarados ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\watertype\simipour">
+        <link name="www.myhalloffamerecord.cn\watertype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\icepunch" />
+        <link name="www.myhalloffamerecord.cn\moves\dig" />
+        <link name="www.myhalloffamerecord.cn\moves\shadowclaw" />
+        <link name="www.myhalloffamerecord.cn\moves\waterfall" />
+        <rank value="1" />
+        <content value="My Simipour ♂ is a water type pokemon . He is lv.74 when entering hall of fame . And his moves are Ice Punch , Dig , Shadow Claw and Waterfall ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\icepunch">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Ice Type , 75 power , 100 accuracy and 15 PP ( max 24 ) . Ice punch inflicts damage , and has a 10 % chance of freezing the target ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\dig">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Ground Type , 80 power , 100 accuracy and 10 PP ( max 16 ) . On the turn that Dig is selected, the user will dig underground and become semi-invulnerable , where the only attacks it cannot avoid are Earthquake , Fissure , Magnitude , and Sonic Boom . The damage inflicted by Earthquake and Magnitude will be doubled . On the following turn, Dig will do damage ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\shadowclaw">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Ghost Type , 70 power , 100 accuracy and 15 PP ( max 24 ) . Shadow Claw has an increased critical hit ratio ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\waterfall">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Water Type , 80 power , 100 accuracy and 15 PP ( max 24 ) . Waterfall has a 20 % chance of causing the target to flinch ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\watertype\vaporeon">
+        <link name="www.myhalloffamerecord.cn\watertype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\surf" />
+        <link name="www.myhalloffamerecord.cn\moves\icebeam" />
+        <link name="www.myhalloffamerecord.cn\moves\signalbeam" />
+        <link name="www.myhalloffamerecord.cn\moves\shadowball" />
+        <rank value="1" />
+        <content value="My Vaporeon ♂ is a water type pokemon . He is lv.74 when entering hall of fame . And his moves are Surf , Ice Beam , Signal Beam and Shadow Ball ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\surf">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Water Type , 95 power , 100 accuracy and 15 PP ( max 24 ) . Surf hits all adjacent pokemon , including allies . It can also hit a pokemon during the semi-invulnerable turn of Dive , and the damage will be doubled ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\icebeam">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Ice Type , 95 power , 100 accuracy and 10 PP ( max 16 ) . Ice Beam inflicts damage , and has a 10 % chance of freezing the target ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\signalbeam">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Bug Type , 75 power , 100 accuracy and 15 PP ( max 24 ) . Signal Beam has 10 % chance of putting target to confused ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\shadowball">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Ghost Type , 80 power , 100 accuracy and 15 PP ( max 24 ) . Shadow Ball has 20 % chance of decreasing target's Sp.Def by one stage ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\watertype\lapras">
+        <link name="www.myhalloffamerecord.cn\watertype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\surf" />
+        <link name="www.myhalloffamerecord.cn\moves\thunderbolt" />
+        <link name="www.myhalloffamerecord.cn\moves\dragonpulse" />
+        <link name="www.myhalloffamerecord.cn\moves\icebeam" />
+        <rank value="1" />
+        <content value="My Lapras ♂ is a water and Ice type pokemon . He is lv.77 when entering hall of fame . And his moves are Surf , Thunderbolt , Dragon Pulse and Ice Beam ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\thunderbolt">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Electric Type , 95 power , 100 accuracy and 15 PP ( max 24 ) . Thunderbolt has 10 % chance of putting target to paralysis ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\dragonpulse">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Dragon Type , 90 power , 100 accuracy and 10 PP ( max 16 ) . Dragon Pulse has no special effect ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\watertype\starmie">
+        <link name="www.myhalloffamerecord.cn\watertype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\psychic" />
+        <link name="www.myhalloffamerecord.cn\moves\recover" />
+        <link name="www.myhalloffamerecord.cn\moves\thunderbolt" />
+        <link name="www.myhalloffamerecord.cn\moves\icebeam" />
+        <rank value="1" />
+        <content value="My Starmie is a water and Psychic type pokemon . It is lv.71 when entering hall of fame . And its moves are Psychic , Recover , Thunderbolt and Ice Beam ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\psychic">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Psychic Type , 90 power , 100 accuracy and 10 PP ( max 16 ) . Psychic has 10 % chance of decreasing target's Sp.Def by one stage ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\recover">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Normal Type , no power , no accuracy and 10 PP ( max 16 ) . Recover restores half of the user's HP ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\watertype\golduck">
+        <link name="www.myhalloffamerecord.cn\watertype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\surf" />
+        <link name="www.myhalloffamerecord.cn\moves\aquajet" />
+        <link name="www.myhalloffamerecord.cn\moves\amnesia" />
+        <link name="www.myhalloffamerecord.cn\moves\psychic" />
+        <rank value="1" />
+        <content value="My Golduck ♀ is a water type pokemon . She is lv.72 when entering hall of fame . And her moves are Surf , Aqua Jet , Amnesia and Psychic ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\aquajet">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Water Type , 40 power , 100 accuracy and 20 PP ( max 32 ) . Aqua Jet has no special effect ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\amnesia">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Psychic Type , no power , no accuracy and 20 PP ( max 32 ) . Amnesia raises the user's Sp.Def by two stages ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\watertype\gyarados">
+        <link name="www.myhalloffamerecord.cn\watertype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\dragondance" />
+        <link name="www.myhalloffamerecord.cn\moves\waterfall" />
+        <link name="www.myhalloffamerecord.cn\moves\dive" />
+        <link name="www.myhalloffamerecord.cn\moves\thrash" />
+        <rank value="1" />
+        <content value="My Gyarados ♀ is a water and flying type pokemon . She is lv.70 when entering hall of fame . And her moves are Dragon Dance , Waterfall , Dive and Thrash ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\dragondance">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Dragon Type , no power , no accuracy and 20 PP ( max 32 ) . Dragon Dance raises the user's Att and Spd by one stage each ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\dive">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Water Type , 80 power , 100 accuracy and 10 PP ( max 16 ) . On the turn that Dive is selected, the user will dive underwater and become semi-invulnerable , where the only attacks it cannot avoid are Surf and Whirlpool . The damage inflicted by Surf and Whirlpool will be doubled . On the following turn, Dive will do damage ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\thrash">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Normal Type , 120 power , 100 accuracy and 10 PP ( max 16 ) . Thrash inflicts damage for 2 ~ 3 turns . After finishing , the user becomes confused ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\normaltype">
+        <link name="www.myhalloffamerecord.cn\normaltype\togekiss" />
+        <link name="www.myhalloffamerecord.cn\normaltype\ursaring" />
+        <link name="www.myhalloffamerecord.cn\normaltype\stoutland" />
+        <link name="www.myhalloffamerecord.cn\normaltype\lopunny" />
+        <link name="www.myhalloffamerecord.cn\normaltype\bouffalant" />
+        <link name="www.myhalloffamerecord.cn\normaltype\cinccino" />
+        <rank value="1" />
+        <content value="My normal type team contains six pokemons : Togekiss , Ursaring , Stoutland , Lopunny , Bouffalant , and Cinccino ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\normaltype\togekiss">
+        <link name="www.myhalloffamerecord.cn\normaltype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\aurasphere" />
+        <link name="www.myhalloffamerecord.cn\moves\extremespeed" />
+        <link name="www.myhalloffamerecord.cn\moves\heatwave" />
+        <link name="www.myhalloffamerecord.cn\moves\airslash" />
+        <rank value="1" />
+        <content value="My Togekiss ♀ is a normal and flying type pokemon . She is lv.84 when entering hall of fame . And her moves are Aura Sphere , Extreme Speed , Heat Wave and Air Slash ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\aurasphere">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Fighting Type , 90 power , no accuracy , it will always hit the target , and 20 PP ( max 32 ) . Aura Sphere has no special effect ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\extremespeed">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Normal Type , 80 power , 100 accuracy and 5 PP ( max 8 ) . Extreme Speed has no special effect ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\heatwave">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Fire Type , 100 power , 90 accuracy and 10 PP ( max 16 ) . Heat Wave has 10 % chance of putting target to burn ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\airslash">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Flying Type , 75 power , 95 accuracy and 20 PP ( max 32 ) . Air Slash has a 30 % chance of causing the target to flinch ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\normaltype\ursaring">
+        <link name="www.myhalloffamerecord.cn\normaltype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\thrash" />
+        <link name="www.myhalloffamerecord.cn\moves\earthquake" />
+        <link name="www.myhalloffamerecord.cn\moves\shadowclaw" />
+        <link name="www.myhalloffamerecord.cn\moves\rockslide" />
+        <rank value="1" />
+        <content value="My Ursaring ♀ is a normal type pokemon . She is lv.75 when entering hall of fame . And her moves are Thrash , Earthquake , Shadow Claw and Rock Slide ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\earthquake">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Ground Type , 100 power , 100 accuracy and 10 PP ( max 16 ) . Earthquake hits all adjacent pokemon , including allies . It can also hit a pokemon during the semi-invulnerable turn of Dig , and the damage will be doubled ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\rockslide">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Rock Type , 75 power , 90 accuracy and 10 PP ( max 16 ) . Rock Slide has a 30 % chance of causing the target to flinch ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\normaltype\stoutland">
+        <link name="www.myhalloffamerecord.cn\normaltype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\superpower" />
+        <link name="www.myhalloffamerecord.cn\moves\gigaimpact" />
+        <link name="www.myhalloffamerecord.cn\moves\dig" />
+        <link name="www.myhalloffamerecord.cn\moves\crunch" />
+        <rank value="1" />
+        <content value="My Stoutland ♀ is a normal type pokemon . She is lv.74 when entering hall of fame . And her moves are Superpower , Giga Impact , Dig and Crunch ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\superpower">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Fighting Type , 120 power , 100 accuracy and 5 PP ( max 8 ) . Superpower decreases the user's Att and Def by one stage each ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\gigaimpact">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Normal Type , 150 power , 90 accuracy and 5 PP ( max 8 ) . Giga Impact forces the user to recharge during the next turn ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\crunch">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Dark Type , 80 power , 100 accuracy and 15 PP ( max 24 ) . Crunch has 20 % chance of decreasing target's Def by one stage ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\normaltype\lopunny">
+        <link name="www.myhalloffamerecord.cn\normaltype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\firepunch" />
+        <link name="www.myhalloffamerecord.cn\moves\thunderpunch" />
+        <link name="www.myhalloffamerecord.cn\moves\icepunch" />
+        <link name="www.myhalloffamerecord.cn\moves\drainpunch" />
+        <rank value="1" />
+        <content value="My Lopunny ♂ is a normal type pokemon . He is lv.74 when entering hall of fame . And his moves are Fire Punch , Thunder Punch , Ice Punch and Drain Punch ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\firepunch">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Fire Type , 75 power , 100 accuracy and 15 PP ( max 24 ) . Fire Punch has 10 % chance of putting target to burn ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\thunderpunch">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Electric Type , 75 power , 100 accuracy and 15 PP ( max 24 ) . Thunder Punch has 10 % chance of putting target to paralysis ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\drainpunch">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Fighting Type , 75 power , 100 accuracy and 10 PP ( max 16 ) . Drain Punch inflicts damage and up to 50 % of the damage dealt to the target is restored to the user as HP ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\normaltype\bouffalant">
+        <link name="www.myhalloffamerecord.cn\normaltype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\megahorn" />
+        <link name="www.myhalloffamerecord.cn\moves\earthquake" />
+        <link name="www.myhalloffamerecord.cn\moves\stoneedge" />
+        <link name="www.myhalloffamerecord.cn\moves\wildcharge" />
+        <rank value="1" />
+        <content value="My Bouffalant ♀ is a normal type pokemon . She is lv.71 when entering hall of fame . And her moves are Megahorn , Earthquake , Stone Edge and Wild Charge ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\megahorn">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Bug Type , 120 power , 85 accuracy and 10 PP ( max 16 ) . Megahorn has no special effect ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\stoneedge">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Rock Type , 100 power , 80 accuracy and 5 PP ( max 8 ) . Stone Edge has an increased critical hit ratio ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\wildcharge">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Electric Type , 90 power , 100 accuracy and 15 PP ( max 24 ) . Wild Charge makes the user receives recoil damage equal to 1 / 4 of the damage done to the target ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\normaltype\cinccino">
+        <link name="www.myhalloffamerecord.cn\normaltype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\gigaimpact" />
+        <link name="www.myhalloffamerecord.cn\moves\uturn" />
+        <link name="www.myhalloffamerecord.cn\moves\dig" />
+        <link name="www.myhalloffamerecord.cn\moves\aquatail" />
+        <rank value="1" />
+        <content value="My Cinccino ♀ is a normal type pokemon . She is lv.80 when entering hall of fame . And her moves are Giga Impact , U-turn , Dig and Aqua Tail ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\uturn">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Bug Type , 70 power , 100 accuracy and 20 PP ( max 32 ) . U-turn switches the user if the user not the only pokemon in the party that is able to battle ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\aquatail">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Water Type , 90 power , 90 accuracy and 10 PP ( max 16 ) . Aqua Tail has no special effect ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\firetype">
+        <link name="www.myhalloffamerecord.cn\firetype\simisear" />
+        <link name="www.myhalloffamerecord.cn\firetype\heatmor" />
+        <link name="www.myhalloffamerecord.cn\firetype\flareon" />
+        <link name="www.myhalloffamerecord.cn\firetype\heatran" />
+        <link name="www.myhalloffamerecord.cn\firetype\darmanitan" />
+        <link name="www.myhalloffamerecord.cn\firetype\ninetales" />
+        <rank value="1" />
+        <content value="My Fire type team contains six pokemons : Simisear , Heatmor , Flareon , Heatran , Darmanitan , and Ninetales ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\firetype\simisear">
+        <link name="www.myhalloffamerecord.cn\firetype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\shadowclaw" />
+        <link name="www.myhalloffamerecord.cn\moves\firepunch" />
+        <link name="www.myhalloffamerecord.cn\moves\dig" />
+        <link name="www.myhalloffamerecord.cn\moves\superpower" />
+        <rank value="1" />
+        <content value="My Simisear ♂ is a fire type pokemon . He is lv.78 when entering hall of fame . And his moves are Shadow Claw , Fire Punch , Dig and Superpower ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\firetype\heatmor">
+        <link name="www.myhalloffamerecord.cn\firetype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\flamethrower" />
+        <link name="www.myhalloffamerecord.cn\moves\heatwave" />
+        <link name="www.myhalloffamerecord.cn\moves\sunnyday" />
+        <link name="www.myhalloffamerecord.cn\moves\megadrain" />
+        <rank value="1" />
+        <content value="My Heatmor ♂ is a fire type pokemon . He is lv.72 when entering hall of fame . And his moves are Flamethrower , Heat Wave , Sunny Day and Mega Drain ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\flamethrower">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Fire Type , 95 power , 100 accuracy and 15 PP ( max 24 ) . Flamethrower has 10 % chance of putting target to burn ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\sunnyday">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Fire Type , no power , no accuracy and 5 PP ( max 8 ) . Sunny Day makes the sunlight brighten the field . This weather will last for 5 turns , including the turn the move is used ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\megadrain">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Grass Type , 75 power , 100 accuracy and 10 PP ( max 16 ) . Mega Drain inflicts damage and up to 50 % of the damage dealt to the target is restored to the user as HP ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\firetype\flareon">
+        <link name="www.myhalloffamerecord.cn\firetype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\firefang" />
+        <link name="www.myhalloffamerecord.cn\moves\dig" />
+        <link name="www.myhalloffamerecord.cn\moves\gigaimpact" />
+        <link name="www.myhalloffamerecord.cn\moves\superpower" />
+        <rank value="1" />
+        <content value="My Flareon ♂ is a fire type pokemon . He is lv.76 when entering hall of fame . And his moves are Fire Fang , Dig , Giga Impact and Superpower ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\firefang">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Fire Type , 65 power , 95 accuracy and 15 PP ( max 24 ) . Fire Fang has 10 % chance of putting target to burn. It also has 10 % chance put target to flinch ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\firetype\heatran">
+        <link name="www.myhalloffamerecord.cn\firetype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\ancientpower" />
+        <link name="www.myhalloffamerecord.cn\moves\heatwave" />
+        <link name="www.myhalloffamerecord.cn\moves\earthpower" />
+        <link name="www.myhalloffamerecord.cn\moves\dragonpulse" />
+        <rank value="1" />
+        <content value="My Heatran ♀ is a fire and Steel type pokemon . She is lv.78 when entering hall of fame . And her moves are Ancient Power , Heat Wave , Earth Power and Dragon Pulse ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\ancientpower">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Rock Type , 60 power , 100 accuracy and 5 PP ( max 8 ) . Ancient Power has 10 % chance of increasing user's Att , Def , Sp.Att , Sp.Def , and Spd by one stage each ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\earthpower">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Ground Type , 90 power , 100 accuracy and 10 PP ( max 16 ) . Earth Power has 10 % chance of decreasing target's Sp.Def by one stage ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\firetype\darmanitan">
+        <link name="www.myhalloffamerecord.cn\firetype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\superpower" />
+        <link name="www.myhalloffamerecord.cn\moves\flareblitz" />
+        <link name="www.myhalloffamerecord.cn\moves\uturn" />
+        <link name="www.myhalloffamerecord.cn\moves\thrash" />
+        <rank value="1" />
+        <content value="My Darmanitan ♀ is a fire type pokemon . She is lv.77 when entering hall of fame . And her moves are Superpower , Flare Blitz , U-turn and Thrash ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\flareblitz">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Fire Type , 120 power , 100 accuracy and 15 PP ( max 24 ) . Flare Blitz makes the user receives recoil damage equal to 1 / 3 of the damage done to the target ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\firetype\ninetales">
+        <link name="www.myhalloffamerecord.cn\firetype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\heatwave" />
+        <link name="www.myhalloffamerecord.cn\moves\energyball" />
+        <link name="www.myhalloffamerecord.cn\moves\darkpulse" />
+        <link name="www.myhalloffamerecord.cn\moves\psyshock" />
+        <rank value="1" />
+        <content value="My Ninetales ♂ is a fire type pokemon . He is lv.83 when entering hall of fame . And his moves are Heat Wave , Energy Ball , Dark Pulse and Psyshock ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\energyball">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Grass Type , 90 power , 100 accuracy and 10 PP ( max 16 ) . Energy Ball has 10 % chance of decreasing target's Sp.Def by one stage ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\darkpulse">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Dark Type , 80 power , 100 accuracy and 15 PP ( max 24 ) . Dark Pulse has 20 % chance of putting target to flinch ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\psyshock">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Psychic Type , 80 power , 100 accuracy and 10 PP ( max 16 ) . Psyshock uses the target's Defense instead of its Special Defense to calculate damage ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\electrictype">
+        <link name="www.myhalloffamerecord.cn\electrictype\ampharos" />
+        <link name="www.myhalloffamerecord.cn\electrictype\magnezone" />
+        <link name="www.myhalloffamerecord.cn\electrictype\zebstrika" />
+        <link name="www.myhalloffamerecord.cn\electrictype\emolga" />
+        <link name="www.myhalloffamerecord.cn\electrictype\rotom" />
+        <link name="www.myhalloffamerecord.cn\electrictype\eelektross" />
+        <rank value="1" />
+        <content value="My Electric type team contains six pokemons : Ampharos , Magnezone , Zebstrika , Emolga , Rotom , and Eelektross ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\electrictype\ampharos">
+        <link name="www.myhalloffamerecord.cn\electrictype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\cottonguard" />
+        <link name="www.myhalloffamerecord.cn\moves\signalbeam" />
+        <link name="www.myhalloffamerecord.cn\moves\thunderwave" />
+        <link name="www.myhalloffamerecord.cn\moves\thunderbolt" />
+        <rank value="1" />
+        <content value="My Ampharos ♂ is a electric type pokemon . He is lv.79 when entering hall of fame . And his moves are Cotton Guard , Signal Beam , Thunder Wave and Thunderbolt ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\cottonguard">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Grass Type , no power , no accuracy and 10 PP ( max 16 ) . Cotton Guard raises user's Def by three stages ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\thunderwave">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Electric Type , no power , 100 accuracy and 20 PP ( max 32 ) . Thunder Wave puts the target to paralysis ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\electrictype\magnezone">
+        <link name="www.myhalloffamerecord.cn\electrictype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\signalbeam" />
+        <link name="www.myhalloffamerecord.cn\moves\thunderwave" />
+        <link name="www.myhalloffamerecord.cn\moves\flashcannon" />
+        <link name="www.myhalloffamerecord.cn\moves\thunderbolt" />
+        <rank value="1" />
+        <content value="My Magnezone is a electric and steel type pokemon . It is lv.76 when entering hall of fame . And its moves are Signal Beam , Thunder Wave , Flash Cannon and Thunderbolt ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\flashcannon">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Steel Type , 80 power , 100 accuracy and 10 PP ( max 16 ) . Flash Cannon has 10 % chance of decreasing target's Sp.Def by one stage ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\electrictype\zebstrika">
+        <link name="www.myhalloffamerecord.cn\electrictype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\flamecharge" />
+        <link name="www.myhalloffamerecord.cn\moves\wildcharge" />
+        <link name="www.myhalloffamerecord.cn\moves\bounce" />
+        <link name="www.myhalloffamerecord.cn\moves\thunderwave" />
+        <rank value="1" />
+        <content value="My Zebstrika ♂ is a electric type pokemon . He is lv.71 when entering hall of fame . And his moves are Flame Charge , Wild Charge , Bounce and Thunder Wave ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\flamecharge">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Fire Type , 50 power , 100 accuracy and 20 PP ( max 32 ) . Flame Charge raises user's Spd by one stage ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\bounce">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Flying Type , 85 power , 85 accuracy and 5 PP ( max 8 ) . Bounce makes the user bounces up high on the first turn , avoiding most moves . On the second turn , the user slams down onto the target , inflicting damage with a 30 % chance of paralyzing it ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\electrictype\emolga">
+        <link name="www.myhalloffamerecord.cn\electrictype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\signalbeam" />
+        <link name="www.myhalloffamerecord.cn\moves\airslash" />
+        <link name="www.myhalloffamerecord.cn\moves\thunderwave" />
+        <link name="www.myhalloffamerecord.cn\moves\thunderbolt" />
+        <rank value="1" />
+        <content value="My Emolga ♂ is a electric and flying type pokemon . He is lv.71 when entering hall of fame . And his moves are Signal Beam , Air Slash , Thunder Wave and Thunderbolt ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\electrictype\rotom">
+        <link name="www.myhalloffamerecord.cn\electrictype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\thunderbolt" />
+        <link name="www.myhalloffamerecord.cn\moves\darkpulse" />
+        <link name="www.myhalloffamerecord.cn\moves\shadowball" />
+        <link name="www.myhalloffamerecord.cn\moves\blizzard" />
+        <rank value="1" />
+        <content value="My Rotom is a electric and ice type pokemon . It is lv.78 when entering hall of fame . And its moves are Thunderbolt , Dark Pulse , Shadow Ball and Blizzard ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\blizzard">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Ice Type , 120 power , 70 accuracy and 5 PP ( max 8 ) . Blizzard has 10 % chance of putting target to freeze ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\electrictype\eelektross">
+        <link name="www.myhalloffamerecord.cn\electrictype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\crunch" />
+        <link name="www.myhalloffamerecord.cn\moves\aquatail" />
+        <link name="www.myhalloffamerecord.cn\moves\superpower" />
+        <link name="www.myhalloffamerecord.cn\moves\dragonclaw" />
+        <rank value="1" />
+        <content value="My Eelektross ♀ is a electric type pokemon . She is lv.73 when entering hall of fame . And her moves are Crunch , Aqua Tail , Superpower and Dragon Claw ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\dragonclaw">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Dragon Type , 80 power , 100 accuracy and 15 PP ( max 24 ) . Dragon Claw has no special effect ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\icetype">
+        <link name="www.myhalloffamerecord.cn\icetype\vanilluxe" />
+        <link name="www.myhalloffamerecord.cn\icetype\glaceon" />
+        <link name="www.myhalloffamerecord.cn\icetype\mamoswine" />
+        <link name="www.myhalloffamerecord.cn\icetype\cryogonal" />
+        <link name="www.myhalloffamerecord.cn\icetype\walrein" />
+        <link name="www.myhalloffamerecord.cn\icetype\beartic" />
+        <rank value="1" />
+        <content value="My Ice type team contains six pokemons : Vanilluxe , Glaceon , Mamoswine , Cryogonal , Walrein , and Beartic ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\icetype\vanilluxe">
+        <link name="www.myhalloffamerecord.cn\icetype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\signalbeam" />
+        <link name="www.myhalloffamerecord.cn\moves\icebeam" />
+        <link name="www.myhalloffamerecord.cn\moves\hail" />
+        <link name="www.myhalloffamerecord.cn\moves\toxic" />
+        <rank value="1" />
+        <content value="My Vanilluxe ♀ is an ice type pokemon . She is lv.73 when entering hall of fame . And her moves are Signal Beam , Ice Beam , Hail and Toxic ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\hail">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Ice Type , no power , no accuracy and 10 PP ( max 16 ) . Hail changes the weather to hail . This weather will last for 5 turns , including the turn the move is used . All the pokemons except ice type will take a damage equals to 1 / 16 of the max HP ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\toxic">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Poison Type , no power , 90 accuracy and 10 PP ( max 16 ) . Toxic puts target to badly poison ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\icetype\glaceon">
+        <link name="www.myhalloffamerecord.cn\icetype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\hail" />
+        <link name="www.myhalloffamerecord.cn\moves\iceshard" />
+        <link name="www.myhalloffamerecord.cn\moves\shadowball" />
+        <link name="www.myhalloffamerecord.cn\moves\icebeam" />
+        <rank value="1" />
+        <content value="My Glaceon ♀ is an ice type pokemon . She is lv.73 when entering hall of fame . And her moves are Hail , Ice Shard , Shadow Ball and Ice Beam ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\iceshard">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Ice Type , 40 power , 100 accuracy and 30 PP ( max 48 ) . Ice Shard has no special effect ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\icetype\mamoswine">
+        <link name="www.myhalloffamerecord.cn\icetype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\blizzard" />
+        <link name="www.myhalloffamerecord.cn\moves\stoneedge" />
+        <link name="www.myhalloffamerecord.cn\moves\thrash" />
+        <link name="www.myhalloffamerecord.cn\moves\earthquake" />
+        <rank value="1" />
+        <content value="My Mamoswine ♀ is an ice and ground type pokemon . She is lv.74 when entering hall of fame . And her moves are Blizzard , Stone Edge , Thrash and Earthquake ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\icetype\cryogonal">
+        <link name="www.myhalloffamerecord.cn\icetype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\icebeam" />
+        <link name="www.myhalloffamerecord.cn\moves\hail" />
+        <link name="www.myhalloffamerecord.cn\moves\lightscreen" />
+        <link name="www.myhalloffamerecord.cn\moves\reflect" />
+        <rank value="1" />
+        <content value="My Cryogonal is an ice type pokemon . It is lv.72 when entering hall of fame . And its moves are Ice Beam , Hail , Light Screen and Reflect ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\lightscreen">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Psychic Type , no power , no accuracy and 30 PP ( max 48 ) . Light Screen builds a light screen . Pokemon under the protection of light screen takes half of the normal special move damage ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\reflect">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Psychic Type , no power , no accuracy and 20 PP ( max 32 ) . Reflect builds a reflect . Pokemon under the protection of light screen takes half of the normal physical move damage ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\icetype\walrein">
+        <link name="www.myhalloffamerecord.cn\icetype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\icebeam" />
+        <link name="www.myhalloffamerecord.cn\moves\hail" />
+        <link name="www.myhalloffamerecord.cn\moves\surf" />
+        <link name="www.myhalloffamerecord.cn\moves\signalbeam" />
+        <rank value="1" />
+        <content value="My Walrein ♂ is an ice and water type pokemon . He is lv.72 when entering hall of fame . And his moves are Ice Beam , Hail , Surf and Signal Beam ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\icetype\beartic">
+        <link name="www.myhalloffamerecord.cn\icetype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\crunch" />
+        <link name="www.myhalloffamerecord.cn\moves\aquatail" />
+        <link name="www.myhalloffamerecord.cn\moves\superpower" />
+        <link name="www.myhalloffamerecord.cn\moves\dragonclaw" />
+        <rank value="1" />
+        <content value="My Beartic ♂ is an ice type pokemon . He is lv.71 when entering hall of fame . And his moves are Dig , Shadow Claw , Aqua Jet and Superpower ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\fightingtype">
+        <link name="www.myhalloffamerecord.cn\fightingtype\sawk" />
+        <link name="www.myhalloffamerecord.cn\fightingtype\breloom" />
+        <link name="www.myhalloffamerecord.cn\fightingtype\throh" />
+        <link name="www.myhalloffamerecord.cn\fightingtype\virizion" />
+        <link name="www.myhalloffamerecord.cn\fightingtype\poliwrath" />
+        <link name="www.myhalloffamerecord.cn\fightingtype\mienshao" />
+        <rank value="1" />
+        <content value="My Fighting type team contains six pokemons : Sawk , Breloom , Throh , Virizion , Poliwrath , and Mienshao ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\fightingtype\sawk">
+        <link name="www.myhalloffamerecord.cn\fightingtype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\stoneedge" />
+        <link name="www.myhalloffamerecord.cn\moves\icepunch" />
+        <link name="www.myhalloffamerecord.cn\moves\closecombat" />
+        <link name="www.myhalloffamerecord.cn\moves\earthquake" />
+        <rank value="1" />
+        <content value="My Sawk ♂ is a fighting type pokemon . He is lv.74 when entering hall of fame . And his moves are Stone Edge , Ice Punch , Close Combat and Earthquake ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\closecombat">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Fighting Type , 120 power , 100 accuracy and 5 PP ( max 8 ) . Close Combat decreases the user's Def and Sp.Def by one stage each ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\fightingtype\breloom">
+        <link name="www.myhalloffamerecord.cn\fightingtype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\drainpunch" />
+        <link name="www.myhalloffamerecord.cn\moves\toxic" />
+        <link name="www.myhalloffamerecord.cn\moves\seedbomb" />
+        <link name="www.myhalloffamerecord.cn\moves\machpunch" />
+        <rank value="1" />
+        <content value="My Breloom ♂ is a grass and fighting type pokemon . He is lv.71 when entering hall of fame . And his moves are Drain Punch , Toxic , Seed Bomb and Mach Punch ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\seedbomb">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Grass Type , 80 power , 100 accuracy and 15 PP ( max 24 ) . Seed Bomb has no special effect ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\machpunch">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Fighting Type , 40 power , 100 accuracy and 30 PP ( max 48 ) . Mach Punch has no special effect ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\fightingtype\throh">
+        <link name="www.myhalloffamerecord.cn\fightingtype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\superpower" />
+        <link name="www.myhalloffamerecord.cn\moves\icepunch" />
+        <link name="www.myhalloffamerecord.cn\moves\earthquake" />
+        <link name="www.myhalloffamerecord.cn\moves\stoneedge" />
+        <rank value="1" />
+        <content value="My Throh ♂ is a fighting type pokemon . He is lv.71 when entering hall of fame . And his moves are Superpower , Ice Punch , Earthquake and Stone Edge ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\fightingtype\virizion">
+        <link name="www.myhalloffamerecord.cn\fightingtype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\xscissor" />
+        <link name="www.myhalloffamerecord.cn\moves\leafblade" />
+        <link name="www.myhalloffamerecord.cn\moves\gigadrain" />
+        <link name="www.myhalloffamerecord.cn\moves\sacredsword" />
+        <rank value="1" />
+        <content value="My Virizion is a grass and fighting pokemon . It is lv.71 when entering hall of fame . And its moves are X-Scissor , Leaf Blade , Giga Drain and Sacred Sword ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\xscissor">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Bug Type , 80 power , 100 accuracy and 15 PP ( max 24 ) . X-Scissor has no special effect ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\leafblade">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Grass Type , 90 power , 100 accuracy and 15 PP ( max 24 ) . Leaf Blade has an increased critical hit ratio ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\gigadrain">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Grass Type , 75 power , 100 accuracy and 10 PP ( max 16 ) . Giga Drain inflicts damage and up to 50 % of the damage dealt to the target is restored to the user as HP . If this attack deals 1 HP of damage , 1 HP will restored to the user ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\sacredsword">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Fighting Type , 90 power , 100 accuracy and 20 PP ( max 32 ) . Sacred Sword ignores the target's Def and evasion stat stages ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\fightingtype\poliwrath">
+        <link name="www.myhalloffamerecord.cn\fightingtype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\gigaimpact" />
+        <link name="www.myhalloffamerecord.cn\moves\icepunch" />
+        <link name="www.myhalloffamerecord.cn\moves\earthquake" />
+        <link name="www.myhalloffamerecord.cn\moves\waterfall" />
+        <rank value="1" />
+        <content value="My Poliwrath ♀ is a water and fighting type pokemon . She is lv.72 when entering hall of fame . And her moves are Giga Impact , Ice Punch , Earthquake and Waterfall ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\fightingtype\mienshao">
+        <link name="www.myhalloffamerecord.cn\Fightingtype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\highjumpkick" />
+        <link name="www.myhalloffamerecord.cn\moves\fakeout" />
+        <link name="www.myhalloffamerecord.cn\moves\uturn" />
+        <link name="www.myhalloffamerecord.cn\moves\drainpunch" />
+        <rank value="1" />
+        <content value="My Mienshao ♂ is a fighting type pokemon . He is lv.82 when entering hall of fame . And his moves are High Jump Kick , Fake Out , U-Turn and Drain Punch ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\highjumpkick">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Fighting Type , 130 power , 90 accuracy and 10 PP ( max 16 ) . If High Jump Kick misses or crash due to type immunity, the user receives recoil damage equal to 1 / 2 of the max HP ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\fakeout">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Normal Type , 90 power , 100 accuracy and 20 PP ( max 32 ) . Fake Out can only used in the first turn the user is out . It puts the target to flinch ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\poisontype">
+        <link name="www.myhalloffamerecord.cn\poisontype\toxicroak" />
+        <link name="www.myhalloffamerecord.cn\poisontype\drapion" />
+        <link name="www.myhalloffamerecord.cn\poisontype\nidoking" />
+        <link name="www.myhalloffamerecord.cn\poisontype\nidoqueen" />
+        <link name="www.myhalloffamerecord.cn\poisontype\crobat" />
+        <link name="www.myhalloffamerecord.cn\poisontype\muk" />
+        <rank value="1" />
+        <content value="My Fighting type team contains six pokemons : Toxicroak , Drapion , Nidoking , Nidoqueen , Crobat , and Muk ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\poisontype\toxicroak">
+        <link name="www.myhalloffamerecord.cn\poisontype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\dualchop" />
+        <link name="www.myhalloffamerecord.cn\moves\fakeout" />
+        <link name="www.myhalloffamerecord.cn\moves\drainpunch" />
+        <link name="www.myhalloffamerecord.cn\moves\suckerpunch" />
+        <rank value="1" />
+        <content value="My Toxicroak ♀ is a poison and fighting type pokemon . She is lv.72 when entering hall of fame . And her moves are Dual Chop , Fake Out , Drain Punch and Sucker Punch ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\dualchop">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Dragon Type , 40 power , 90 accuracy and 15 PP ( max 24 ) . Dual Chop attacks twice in a single turn ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\suckerpunch">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Dark Type , 80 power , 100 accuracy and 5 PP ( max 8 ) . If Sucker Punch's target has selected a physical or special attack and has not yet had a chance to execute its move , Sucker Punch will damage the target ; otherwise , Sucker Punch will fail ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\poisontype\drapion">
+        <link name="www.myhalloffamerecord.cn\poisontype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\nightslash" />
+        <link name="www.myhalloffamerecord.cn\moves\crunch" />
+        <link name="www.myhalloffamerecord.cn\moves\xscissor" />
+        <link name="www.myhalloffamerecord.cn\moves\earthquake" />
+        <rank value="1" />
+        <content value="My Drapion ♀ is a poison and dark type pokemon . She is lv.71 when entering hall of fame . And her moves are Night Slash , Crunch , X-Scissor and Earthquake ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\nightslash">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Dark Type , 70 power , 100 accuracy and 15 PP ( max 24 ) . Night Slash has an increased critical hit ratio ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\poisontype\nidoking">
+        <link name="www.myhalloffamerecord.cn\poisontype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\earthquake" />
+        <link name="www.myhalloffamerecord.cn\moves\stoneedge" />
+        <link name="www.myhalloffamerecord.cn\moves\megahorn" />
+        <link name="www.myhalloffamerecord.cn\moves\outrage" />
+        <rank value="1" />
+        <content value="My Nidoking ♂ is a poison and ground type pokemon . He is lv.73 when entering hall of fame . And his moves are Earthquake , Stone Edge , Megahorn and Outrage ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\outrage">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Dragon Type , 120 power , 100 accuracy and 10 PP ( max 26 ) . Outrage inflicts damage for 2 ~ 3 turns . After finishing , the user becomes confused ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\poisontype\nidoqueen">
+        <link name="www.myhalloffamerecord.cn\poisontype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\earthquake" />
+        <link name="www.myhalloffamerecord.cn\moves\shadowclaw" />
+        <link name="www.myhalloffamerecord.cn\moves\stoneedge" />
+        <link name="www.myhalloffamerecord.cn\moves\outrage" />
+        <rank value="1" />
+        <content value="My Nidoqueen ♀ is a poison and ground pokemon . She is lv.72 when entering hall of fame . And her moves are Earthquake , Shadow Claw , Stone Edge and Outrage ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\poisontype\crobat">
+        <link name="www.myhalloffamerecord.cn\poisontype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\superfang" />
+        <link name="www.myhalloffamerecord.cn\moves\fly" />
+        <link name="www.myhalloffamerecord.cn\moves\xscissor" />
+        <link name="www.myhalloffamerecord.cn\moves\uturn" />
+        <rank value="1" />
+        <content value="My Crobat ♀ is a poison and flying type pokemon . She is lv.76 when entering hall of fame . And her moves are Super Fang , Fly , X-Scissor and U-Turn ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\superfang">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Normal Type , change power , 90 accuracy and 10 PP ( max 16 ) . Super Fang inflicts damage equals to the target's remaining HP , minimum 1 ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\fly">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Flying Type , 90 power , 95 accuracy and 15 PP ( max 24 ) . On the turn that Fly is selected, the user will fly up and become semi-invulnerable , where the only attacks it cannot avoid are Swift , Gust , Thunder , Whirlwind , Twister , Sky Uppercut , smack Down , Hurricane , and Sonic Boom . On the following turn, Dig will do damage ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\poisontype\muk">
+        <link name="www.myhalloffamerecord.cn\poisontype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\explosion" />
+        <link name="www.myhalloffamerecord.cn\moves\icepunch" />
+        <link name="www.myhalloffamerecord.cn\moves\dig" />
+        <link name="www.myhalloffamerecord.cn\moves\painsplit" />
+        <rank value="1" />
+        <content value="My Muk ♀ is a poison type pokemon . She is lv.70 when entering hall of fame . And her moves are Explosion , Ice Punch , Dig and Pain Split ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\explosion">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Normal Type , 250 power , 100 accuracy and 5 PP ( max 8 ) . Explosion inflicts damage , and causes the user to faint ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\painsplit">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Normal Type , no power , no accuracy and 20 PP ( max 32 ) . Pain Split adds the current HP of the user and target Pokémon . It then divides this value by two and increases or decreases the HP of each Pokémon to become equal to the result ( limited by each Pokémon's maximum HP ) ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\groundtype">
+        <link name="www.myhalloffamerecord.cn\groundtype\hippowdon" />
+        <link name="www.myhalloffamerecord.cn\groundtype\gliscor" />
+        <link name="www.myhalloffamerecord.cn\groundtype\krookodile" />
+        <link name="www.myhalloffamerecord.cn\groundtype\flygon" />
+        <link name="www.myhalloffamerecord.cn\groundtype\excadrill" />
+        <link name="www.myhalloffamerecord.cn\groundtype\claydol" />
+        <rank value="1" />
+        <content value="My Ground type team contains six pokemons : Hippowdon , Gliscor , Krookodile , Flygon , Excadrill , and Claydol ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\groundtype\hippowdon">
+        <link name="www.myhalloffamerecord.cn\groundtype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\superpower" />
+        <link name="www.myhalloffamerecord.cn\moves\crunch" />
+        <link name="www.myhalloffamerecord.cn\moves\stoneedge" />
+        <link name="www.myhalloffamerecord.cn\moves\earthquake" />
+        <rank value="1" />
+        <content value="My Hippowdon ♂ is a ground type pokemon . He is lv.71 when entering hall of fame . And his moves are Superpower , Crunch , Stone Edge and Earthquake ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\groundtype\gliscor">
+        <link name="www.myhalloffamerecord.cn\groundtype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\stoneedge" />
+        <link name="www.myhalloffamerecord.cn\moves\nightslash" />
+        <link name="www.myhalloffamerecord.cn\moves\earthquake" />
+        <link name="www.myhalloffamerecord.cn\moves\uturn" />
+        <rank value="1" />
+        <content value="My Gliscor ♂ is a ground and flysing type pokemon . He is lv.76 when entering hall of fame . And his moves are Stone Edge , Night Slash , Earthquake and U-Turn ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\groundtype\krookodile">
+        <link name="www.myhalloffamerecord.cn\groundtype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\foulplay" />
+        <link name="www.myhalloffamerecord.cn\moves\outrage" />
+        <link name="www.myhalloffamerecord.cn\moves\stoneedge" />
+        <link name="www.myhalloffamerecord.cn\moves\earthquake" />
+        <rank value="1" />
+        <content value="My Krookodile ♂ is a ground and dark type pokemon . He is lv.71 when entering hall of fame . And his moves are Foul Play , Outrage , Stone Edge and Earthquake ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\foulplay">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Dark Type , 95 power , 100 accuracy and 15 PP ( max 24 ) . Foul Play uses the target's Attack stat to calculate damage instead of the user's ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\groundtype\flygon">
+        <link name="www.myhalloffamerecord.cn\groundtype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\dragonclaw" />
+        <link name="www.myhalloffamerecord.cn\moves\earthquake" />
+        <link name="www.myhalloffamerecord.cn\moves\uturn" />
+        <link name="www.myhalloffamerecord.cn\moves\fly" />
+        <rank value="1" />
+        <content value="My Flygon ♂ is a ground and dragon pokemon . He is lv.73 when entering hall of fame . And His moves are Dragon Claw , Earthquake , U-Turn and Fly ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\groundtype\excadrill">
+        <link name="www.myhalloffamerecord.cn\groundtype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\shadowclaw" />
+        <link name="www.myhalloffamerecord.cn\moves\aerialace" />
+        <link name="www.myhalloffamerecord.cn\moves\xscissor" />
+        <link name="www.myhalloffamerecord.cn\moves\earthquake" />
+        <rank value="1" />
+        <content value="My Excadrill ♀ is a ground and steel type pokemon . She is lv.72 when entering hall of fame . And her moves are Shadow Claw , Aerial Ace , X-Scissor and Earthquake ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\aerialace">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Flying Type , 60 power , no accuracy , it will always hit the target , and 10 PP ( max 16 ) . Aerial Ace has no special effect ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\groundtype\claydol">
+        <link name="www.myhalloffamerecord.cn\groundtype" />
+        <link name="www.myhalloffamerecord.cn\pokemons" />
+        <link name="www.myhalloffamerecord.cn\moves\explosion" />
+        <link name="www.myhalloffamerecord.cn\moves\toxic" />
+        <link name="www.myhalloffamerecord.cn\moves\stoneedge" />
+        <link name="www.myhalloffamerecord.cn\moves\zenheadbutt" />
+        <rank value="1" />
+        <content value="My Claydol is a ground and psychic type pokemon . It is lv.70 when entering hall of fame . And its moves are Explosion , Toxic , Stone Edge and Zen Headbutt ."/>
+    </webpage>
+
+    <webpage name="www.myhalloffamerecord.cn\moves\zenheadbutt">
+        <link name="www.myhalloffamerecord.cn\moves" />
+        <rank value="1" />
+        <content value="Psychic Type , 80 power , 90 accuracy and 15 PP ( max 24 ) . Zen Headbutt has 20 % chance of putting target to flinch ."/>
+    </webpage>
+
+</test>
+<!--        HoF.xml-->
+<!--        Displaying HoF.xml.-->
