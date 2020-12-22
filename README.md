@@ -1,4 +1,4 @@
-# COMP250_FinalProject_Multitester
+# COMP250 FinalProject Multitester
 
 As with the A3 Multitester, the idea here is to bring together a bunch of different tools and testers other people have created.
 
