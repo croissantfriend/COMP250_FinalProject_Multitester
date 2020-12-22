@@ -22,7 +22,7 @@ This Multitester includes:
 The main reason I created this Multitester was to be able to use LI Xiang's very cool SearchWindow on a larger "internet," so try that out!
 
 ## Installation
-* Clone as normal in either IntelliJ or Eclipse. Nothing as fancy here as what was in the A3 Multitester.
+Clone as normal in either IntelliJ or Eclipse. Nothing as fancy here as what was in the A3 Multitester.
 
 IntelliJ
 1. Click "Get from version control..."
