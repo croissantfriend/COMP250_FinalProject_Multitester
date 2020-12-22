@@ -22,7 +22,17 @@ This Multitester includes:
 The main reason I created this Multitester was to be able to use LI Xiang's very cool SearchWindow on a larger "internet," so try that out!
 
 ## Installation
-Clone and run as normal in either IntelliJ or Eclipse. Nothing as fancy here as what was in the A3 Multitester.
+* Clone as normal in either IntelliJ or Eclipse. Nothing as fancy here as what was in the A3 Multitester.
+
+IntelliJ
+1. Click "Get from version control..."
+2. Select a local directory and paste the URL of this project
+
+Eclipse
+  1. Select "Git -> Projects from Git (with smart import)"
+  2. Select "Clone URI"
+  3. Paste the URL of this project into "URI"
+  4. Select the "master" branch
 
 ## Usage
 Each file can be run on its own as normal. Start an issue or contact me on Messenger if you have any trouble!
