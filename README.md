@@ -3,13 +3,14 @@
 As with the A3 Multitester, the idea here is to bring together a bunch of different tools and testers other people have created.
 
 This Multitester includes:
-* huubdejong's MegaTester
-* Charlotte Volk's MyTester
-* Allison Mazurek's SearchEngineTest
+* Huub de Jong's MegaTester
+* Charlotte Volk's [MyTester](https://github.com/charlottevolk/250-Final-Project-Tester)
+   * Expected_Output.rtf also included
+* Allison Mazurek's [SearchEngineTest](https://github.com/allisonmazurek/TesterFinalProject_COMP_250)
    * Some print statements added to help with debugging
    * ComputeRankArray() and crawlAndIndexWordIndexUpdated() removed
 * myCourses Starter Code, including Minitester
-* LI Xiang's SearchWindow
+* LI Xiang's [SearchWindow](https://drive.google.com/file/d/13qYcZ7th0yHrzG74eybkw5kq29Mc5Zc0/view)
    * Updated to crawlAndIndex webpages from multiple testers
 * XML files for each tester, including an updated megatest.xml
    * testAcyclic.xml from Minitester
